@@ -1,6 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=깃허브%20특강&fontSize=90)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChoiMinhyeok1226)](https://github.com/ChoiMinhyeok1226/github-readme-stats)
+//[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChoiMinhyeok1226)](https://github.com/ChoiMinhyeok1226/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChoiMinhyeok1226&langs_count=10&layout=compact&cache_seconds=1800&v=3)](https://github.com/ChoiMinhyeok1226/github-readme-stats)
 
 ![C](https://img.shields.io/badge/-C-123456?style=flat-square&logo=C&logoColor=black)
 ![자바](https://img.shields.io/badge/-자바-007396?style=flat&logo=Java&logoColor=ffffff)
